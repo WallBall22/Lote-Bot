@@ -1,1 +1,4 @@
-# Lote-Bot
+# Speed Bot 
+- By Amr
+____________
+- Prefix = "-"
